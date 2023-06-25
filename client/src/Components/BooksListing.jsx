@@ -101,13 +101,13 @@ console.log(data)
 
   return (
     <>
-       {/*<Box></Box>  */}
+      
     <Box mt={10} width="80%">
       <Box>
       <Flex flexDirection={'column'}>
         <FormLabel textAlign={'left'}>Search By Country Name</FormLabel>
         <Input type="text" width="30%" mb={4} placeholder='Search by Country Name' onChange={(e)=>handleChange(e)}/>
-        {/* <Button onClick={handleSubmit}>Search</Button> */}
+       
       </Flex>
     </Box>
       {loading ? <Image width="30%" src="https://img.freepik.com/premium-vector/system-software-update-upgrade-concept-loading-process-screen-vector-illustration_175838-2182.jpg?w=2000" alt=""/> :
