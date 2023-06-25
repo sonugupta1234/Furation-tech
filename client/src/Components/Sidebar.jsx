@@ -5,13 +5,9 @@ import {
     Box,
     Checkbox,
     CheckboxGroup,
-    Flex,
+    
     Heading,
-    Input,
-    Radio,
-    RadioGroup,
-    Select,
-    Stack,
+  
     Text,
   } from "@chakra-ui/react";
 
@@ -49,7 +45,7 @@ export const Sidebar = () => {
         setSearchParams(params)
     },[title])
 
-    console.log(title)
+    // console.log(title)
 
 
   return (

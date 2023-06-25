@@ -1,6 +1,7 @@
 
 
 const express= require("express");
+const cors=require("cors")
 const connection  = require("./config/db");
 const bookRoute= require("./routes/bookroutes")
 const orderRoute=require("./routes/orderroutes")
@@ -9,6 +10,7 @@ const userRouter = require("./routes/userroutes");
 const app=express();
 require("dotenv").config();
 app.use(express.json())
+app.use(cors())
 const port= process.env.PORT
 
 
