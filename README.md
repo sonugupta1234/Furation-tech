@@ -1,8 +1,8 @@
 # Furation-Tech BookStore
 
-An Interactive Bookstore application. Build using MERN Stack
+An Interactive Bookstore application. Build using MERN Stack within 2-3 days..
 
-Live: 
+Live Url: https://furation.vercel.app
 
 # Features
 
@@ -42,9 +42,8 @@ Live:
 - MongoDB
 - Mongoose
 
-React
-Chakra-UI
-Redux
-react-router-dom
-Express
-MongoDB
+# Images
+- ![Screenshot (367)](https://github.com/sonugupta1234/sonugupta1234.github.io/assets/112892522/e2a59465-7cc7-44fd-86ce-812fdd854235)
+
+# Backend Url
+- https://crabby-ox-hoodie.cyclic.app/
