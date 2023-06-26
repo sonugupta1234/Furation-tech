@@ -8,13 +8,14 @@ Live:
 
 - Used grid layout for BookListing Page
 - Use of UseSearchParams Hook for setting the URL query params
-Retains the filtered data amid the page reloads
-Hashed the password in DB using bycrypt
-Use of Toast over default alert for feedback
-Sorting and Filtering through backend
-Sign-in/Sign-up pages with minimal details to fill
-Usage Instruction
-Starting of the App
+- Retains the filtered data amid the page reloads
+- password hashing using bcrypt
+- toast used for feedback message
+- Sign-in/Sign-up pages for user
+  
+# Usage Instruction
+
+- Start of the App
 We would land at Home/Landing Page
 Consisting a Navigation-bar at the top
 There is a Carousel component showing various books
