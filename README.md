@@ -2,7 +2,7 @@
 
 An Interactive Bookstore application. Build using MERN Stack within 2-3 days..
 
-Live Url: https://furation.vercel.app
+Live Url:https://furation-sonugupta1234.vercel.app
 
 # Features
 
